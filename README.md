@@ -2,7 +2,7 @@ Olá👋 eu sou Filipe Ferreira Lima
 
 - 🔭 Pretendo me especializar em front-end
 - 👯 Atuando como project manager  
-- 🌱 No momento estou aprendendo JS e Java
+- 🌱 No momento estou JS e Java
 - 📫 Contato: filipefnlima@gmail.com
 
 <div align="center">
